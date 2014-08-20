@@ -1,0 +1,49 @@
+controller_list:
+  - name: RightArm_controller
+    joints:
+      - RShoulderPitch
+      - RShoulderYaw
+      - RElbowRoll
+      - RElbowYaw
+  - name: LeftArm_controller
+    joints:
+      - LShoulderPitch
+      - LShoulderYaw
+      - LElbowRoll
+      - LElbowYaw
+  - name: RightHand_controller
+    joints:
+      - RWristRoll
+      - RWristYaw
+      - RWristPitch     
+#      - RFinger11
+  - name: LeftHand_controller
+    joints:
+      - LWristRoll
+      - LWristYaw
+      - LWristPitch
+#      - LFinger11
+  - name: LeftLeg_left_controller
+    joints:
+      - LHipYaw
+      - LHipRoll
+      - LHipPitch
+      - LKneePitch
+      - LAnklePitch
+      - LAnkleRoll
+      - LToePitch
+  - name: RightLeg_controller
+    joints:
+      - RHipYaw
+      - RHipRoll
+      - RHipPitch
+      - RKneePitch
+      - RAnklePitch
+      - RAnkleRoll
+      - RToePitch
+  - name: Head_controller
+    joints:
+      - NeckYaw
+      - NeckPitch
+      - HeadPitch
+      - HeadRoll

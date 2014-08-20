@@ -1,0 +1,288 @@
+joint_limits:
+  HeadPitch:
+    has_velocity_limits: true
+    max_velocity: 7.2988824
+    has_acceleration_limits: false
+    max_acceleration: 0
+  HeadRoll:
+    has_velocity_limits: true
+    max_velocity: 4.7442645
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LAnklePitch:
+    has_velocity_limits: true
+    max_velocity: 6.7799634
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LAnkleRoll:
+    has_velocity_limits: true
+    max_velocity: 10.28929
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LElbowRoll:
+    has_velocity_limits: true
+    max_velocity: 10.333784
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LElbowYaw:
+    has_velocity_limits: true
+    max_velocity: 10.3810644
+    has_acceleration_limits: false
+    max_acceleration: 0
+#  LFinger11:
+  LHand:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFinger12:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFinger13:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFinger21:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFinger22:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFinger23:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFinger31:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFinger32:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFinger33:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LHipPitch:
+    has_velocity_limits: true
+    max_velocity: 6.7799634
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LHipRoll:
+    has_velocity_limits: true
+    max_velocity: 10.289294
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LHipYaw:
+    has_velocity_limits: true
+    max_velocity: 8.082461
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LKneePitch:
+    has_velocity_limits: true
+    max_velocity: 8.27600953
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LShoulderPitch:
+    has_velocity_limits: true
+    max_velocity: 6.52664058
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LShoulderYaw:
+    has_velocity_limits: true
+    max_velocity: 10.333784
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LThumb1:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LThumb2:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LThumb3:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LToePitch:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LWristPitch:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LWristRoll:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LWristYaw:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  NeckPitch:
+    has_velocity_limits: true
+    max_velocity: 6.17848
+    has_acceleration_limits: false
+    max_acceleration: 0
+  NeckYaw:
+    has_velocity_limits: true
+    max_velocity: 5.8886917
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RAnklePitch:
+    has_velocity_limits: true
+    max_velocity: 6.7799634
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RAnkleRoll:
+    has_velocity_limits: true
+    max_velocity: 10.28929
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RElbowRoll:
+    has_velocity_limits: true
+    max_velocity: 10.333784
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RElbowYaw:
+    has_velocity_limits: true
+    max_velocity: 10.3810644
+    has_acceleration_limits: false
+    max_acceleration: 0
+#  RFinger11:
+  RHand:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFinger12:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFinger13:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFinger21:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFinger22:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFinger23:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFinger31:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFinger32:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFinger33:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RHipPitch:
+    has_velocity_limits: true
+    max_velocity: 6.7799634
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RHipRoll:
+    has_velocity_limits: true
+    max_velocity: 10.289294
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RHipYaw:
+    has_velocity_limits: true
+    max_velocity: 8.082461
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RKneePitch:
+    has_velocity_limits: true
+    max_velocity: 8.27600953
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RShoulderPitch:
+    has_velocity_limits: true
+    max_velocity: 6.52664058
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RShoulderYaw:
+    has_velocity_limits: true
+    max_velocity: 10.333784
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RThumb1:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RThumb2:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RThumb3:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RToePitch:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RWristPitch:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RWristRoll:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RWristYaw:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
+  TrunkYaw:
+    has_velocity_limits: false
+    max_velocity: 0
+    has_acceleration_limits: false
+    max_acceleration: 0
